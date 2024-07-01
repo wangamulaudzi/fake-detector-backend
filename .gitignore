@@ -1,0 +1,3 @@
+*.env
+secrets/
+training/src/fake-news-detector.ipynb
