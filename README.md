@@ -2,17 +2,6 @@
 
 This is the backend service for the Fake Detector application, which uses AI to determine if an image is real or artificially generated.
 
-## Directory Structure
-fake-news-backend/
-├── api/
-│   └── upload.py
-├── .gitignore
-├── .python-version
-├── Dockerfile
-├── README.md
-├── fake-detector.py
-├── requirements.txt
-
 ## Local Setup
 
 1. Clone the repository:
