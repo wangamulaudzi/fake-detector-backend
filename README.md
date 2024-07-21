@@ -2,6 +2,8 @@
 
 This is the backend service for the Fake Detector application, which uses AI to determine if an image is real or artificially generated.
 
+The frontend repo can be found [here](https://github.com/wangamulaudzi/fake-detector-frontend/).
+
 ## Local Setup
 
 1. Clone the repository:
